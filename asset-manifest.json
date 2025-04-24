@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/casaverdepagsanjan/static/css/main.39393a56.css",
+    "main.js": "/casaverdepagsanjan/static/js/main.9050819b.js",
+    "index.html": "/casaverdepagsanjan/index.html",
+    "main.39393a56.css.map": "/casaverdepagsanjan/static/css/main.39393a56.css.map",
+    "main.9050819b.js.map": "/casaverdepagsanjan/static/js/main.9050819b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39393a56.css",
+    "static/js/main.9050819b.js"
+  ]
+}
