@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/casaverdepagsanjan/static/css/main.39393a56.css",
-    "main.js": "/casaverdepagsanjan/static/js/main.b8bffb11.js",
+    "main.css": "/casaverdepagsanjan/static/css/main.09cad02b.css",
+    "main.js": "/casaverdepagsanjan/static/js/main.3678b8c5.js",
     "index.html": "/casaverdepagsanjan/index.html",
-    "main.39393a56.css.map": "/casaverdepagsanjan/static/css/main.39393a56.css.map",
-    "main.b8bffb11.js.map": "/casaverdepagsanjan/static/js/main.b8bffb11.js.map"
+    "main.09cad02b.css.map": "/casaverdepagsanjan/static/css/main.09cad02b.css.map",
+    "main.3678b8c5.js.map": "/casaverdepagsanjan/static/js/main.3678b8c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.39393a56.css",
-    "static/js/main.b8bffb11.js"
+    "static/css/main.09cad02b.css",
+    "static/js/main.3678b8c5.js"
   ]
 }
