@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.09cad02b.css","mappings":"AAAA,KAIE,qBAAsB,CACtB,UAAW,CAJX,8BAAkC,CAClC,QAAS,CACT,SAGF","sources":["index.css"],"sourcesContent":["body {\n  font-family: 'Poppins', sans-serif;\n  margin: 0;\n  padding: 0;\n  background-color: #fff;\n  color: #333;\n}\n"],"names":[],"sourceRoot":""}
